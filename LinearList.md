@@ -119,6 +119,7 @@ int LocateElem(SqList L, ElemType e) {
 
 <!-- Tables -->
 using pointers | using arrays 
+-----------------------------
 single linked list  | static linked list |
 double linked list 
 circular linked list
