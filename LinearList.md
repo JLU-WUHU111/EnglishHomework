@@ -11,7 +11,7 @@
 # **Linear List**
 
 <!-- structure chart of linear list-->
-![linear list](Linear%20list.png)
+![linear list](Linear List.png)
 1. Basic operations for linear list
 2. Sequence list
 	1. Definition of sequence list
